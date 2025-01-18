@@ -1,0 +1,2 @@
+# FoodCLIP
+FoddCLIP project
